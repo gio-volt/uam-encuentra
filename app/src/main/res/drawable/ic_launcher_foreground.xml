@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- University Shield / Crest base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 C43,26 35,28 32,32 C32,53 42,67 54,74 C66,67 76,53 76,32 C73,28 65,26 54,26 Z" />
+    
+    <!-- Shield inner accent (Navy & Gold UAM style) -->
+    <path
+        android:fillColor="#0F2942"
+        android:pathData="M54,30 C45,30 38,32 36,35 C36,51 44,63 54,69 C64,63 72,51 72,35 C70,32 63,30 54,30 Z" />
+
+    <!-- Magnifying Glass / Search Symbol (Find) -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M51,40 C46.58,40 43,43.58 43,48 C43,52.42 46.58,56 51,56 C52.85,56 54.54,55.37 55.9,54.31 L61.29,59.7 C61.68,60.09 62.32,60.09 62.71,59.7 C63.1,59.31 63.1,58.68 62.71,58.29 L57.31,52.9 C58.37,51.54 59,49.85 59,48 C59,43.58 55.42,40 51,40 Z M51,43 C53.76,43 56,45.24 56,48 C56,50.76 53.76,53 51,53 C48.24,53 46,50.76 46,48 C46,45.24 48.24,43 51,43 Z" />
+
+    <!-- Sparkle / Found beacon -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M66,35 L67.2,38.8 L71,40 L67.2,41.2 L66,45 L64.8,41.2 L61,40 L64.8,38.8 Z" />
+</vector>
